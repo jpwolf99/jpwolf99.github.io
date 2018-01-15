@@ -1,2 +1,2 @@
-# Helloe World!
-My Name id GITHUB_USERNAME
+# Hello World!
+My Name is GITHUB_USERNAME
